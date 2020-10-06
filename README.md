@@ -32,10 +32,10 @@ https://salary-p.herokuapp.com/predict
 ```
 
 You should be able to view the homepage as below :
-![alt text](https://github.com/mayank0rastogi/salary-p/blob/main/uploads/Screenshot%20(300).png)
+![alt text](https://github.com/mayank0rastogi/salary-p/blob/main/uploads/salary-p.png)
 
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
 If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
-![alt text](https://github.com/mayank0rastogi/salary-p/blob/main/uploads/Screenshot%20(300).png)
+![alt text](https://github.com/mayank0rastogi/salary-p/blob/main/uploads/salary-p.png)
 
