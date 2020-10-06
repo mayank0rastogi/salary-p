@@ -1,12 +1,12 @@
 ## ML-Model-Heroku-Deployment
-This is a My First project to elaborate how Machine Learn Models are deployed on production using Flask API on the Local Computer as Well as Heroku
+This is  My First project to elaborate how Machine Learn Models are deployed on production using Flask API on the Local Computer as Well as Heroku
 
 ### Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
 
 ### Project Structure
 This project has four major parts :
-1. untitled.ipny - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
+1. untitled3.ipynb - This contains code fot our Machine Learning model to predict employee salaries absed on training data in 'hiring.csv' file.
 2. app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
 4. templates(index.html)/Static(css) - This folder contains the HTML template to allow user to enter employee detail and displays the predicted employee salary and some simple styling using Style.css.
 
